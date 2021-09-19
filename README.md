@@ -3,9 +3,7 @@ Bienvenue !<br>
 Ici Soren, :rocket: <br>
 19 ans amateur de bière,
 de musique et de code.<br>
-Acctuellement en train d'apprendre le
-<img src="https://camo.githubusercontent.com/1db24c6c39a6a99fa17530e099333c559c9a5efafe2ae36c73fac8263924c573/68747470733a2f2f73796d666f6e792e636f6d2f6c6f676f732f73796d666f6e795f626c61636b5f30332e737667" alt="symfony" data-canonical-src="https://symfony.com/logos/symfony_black_03.svg" style="max-width: 100%;" width="40" height="40">
-pour de futur projets.<br>
+Acctuellement en train d'apprendre le symfony pour de futurs projets.<br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2rehiriqhf1s9nj1l4k0h8gcn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 ## **En ce qui concerne les acquis j'ai :**<br>
