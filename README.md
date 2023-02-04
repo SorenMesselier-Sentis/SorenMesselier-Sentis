@@ -1,14 +1,14 @@
-# **Hello there !** 👋
+# **Hi !** 👋
 I'm Soren, :rocket: <br>
 I am a web junior developper and i'm actually learning at the [IIM](https://iim.fr) Digital School in 3rd year.<br>
 <br>
-## **Get to know me 👀**
+## **Get to know me**
 <hr>
 
 > I have 3 different passions in my life :
 
         > Code
-            - PHP 👀
+            - Backend : PHP
 
         > Music
             - Rock 🎸
