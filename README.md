@@ -1,4 +1,4 @@
-# **Hi !** 👋
+# **Hi !**
 I'm Soren, :rocket: <br>
 I am a web junior developper and i'm actually learning at the [IIM](https://iim.fr) Digital School in 3rd year.<br>
 <br>
